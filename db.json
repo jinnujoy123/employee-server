@@ -1,0 +1,24 @@
+{
+  "employee": [
+    {
+      "id": "da8d",
+      "emp_id": "123",
+      "name": "jinnu",
+      "email": "jinnujoy9456@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "5ac2",
+      "emp_id": "we",
+      "name": "Geethu",
+      "email": "geethu@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "001d",
+      "name": "Tom",
+      "email": "tom@gmail.com",
+      "status": "inactive"
+    }
+  ]
+}
